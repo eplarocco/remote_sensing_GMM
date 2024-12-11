@@ -1,3 +1,7 @@
+# Hyperspectral Data
+C/spectral_libraries/
+C/spectral_images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
