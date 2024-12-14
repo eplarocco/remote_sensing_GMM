@@ -14,3 +14,13 @@ https://scikit-learn.org/1.5/auto_examples/mixture/plot_gmm.html#sphx-glr-auto-e
 
 Methods for 'best' model selection using BIC score (best meaning selecting the number of Guassians to use and the type of covariance to use) (BIC = Bayesian Information Criterion, a way to evaluate a model with low error and low complexity):
 https://scikit-learn.org/1.5/auto_examples/mixture/plot_gmm_selection.html#sphx-glr-auto-examples-mixture-plot-gmm-selection-py
+
+Thoughts:
+- Should probably take target spectra out of background image  - can either use with spectra library or in addition or not but might mess up multiple guassian distribution if one group is the target distribution
+- For baccharis - resample spectra (library has like 900 but we only need about 100)
+- Cosine Similarity
+- Discuss pros and cons of new proposed method
+- If you use pixels from image as opposed to library spectra, gives you more robust results (can find that vegetation in other areas that aren’t that specific plant - just that plant type)
+- Use ground truth to score, not to train
+- Do I need to use PCA or normalize before clustering? Would k-means work better?
+
