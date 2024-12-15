@@ -1,0 +1,5 @@
+,F1_Cloth_Red,F2_Nylon_Yellow,F3a_Cloth_Blue,F3b_Cloth_Blue,F4a_Nylon_Maroon,F4b_Nylon_Maroon,V1_field_spectrum,V2a_field_spectrum,V3_field_spectrum
+MF_GMM,0.390625,0.3125,0.140625,0.0,0.0625,0.0,0.0,0.0,0.0
+ACE_GMM,0.5,0.359375,0.1875,0.0,0.03125,0.0,0.0,0.0,0.0
+MF_Single,0.625,0.625,0.375,0.0,0.375,0.0,0.0,0.0,0.0
+ACE_single,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0

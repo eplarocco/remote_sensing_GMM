@@ -1,0 +1,19 @@
+Number of components,Type of initialization,param_init_params,BIC score
+3,full,k-means++,35069871.09440042
+4,full,k-means++,34870202.21854982
+5,full,k-means++,34920680.1346574
+6,full,k-means++,34946295.546775505
+7,full,k-means++,34978492.84264414
+8,full,k-means++,35077920.33907151
+9,full,k-means++,35091184.771952376
+10,full,k-means++,35175768.70234108
+11,full,k-means++,35241274.30174314
+3,full,random_from_data,35047804.26645048
+4,full,random_from_data,34857007.74642205
+5,full,random_from_data,34949641.534754656
+6,full,random_from_data,34909835.142390825
+7,full,random_from_data,34955640.33302313
+8,full,random_from_data,35037765.04168796
+9,full,random_from_data,35122892.0907268
+10,full,random_from_data,35172018.588515006
+11,full,random_from_data,35213957.32922518
